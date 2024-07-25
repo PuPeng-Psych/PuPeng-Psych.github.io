@@ -1,6 +1,6 @@
 ## About me
 
-I am currently working as a **post-doc** in the **Department of Psychiatry** at **Sir Run Run Shaw Hospital**, **Zhejiang University School of Medicine**. I am very fortunate to be advised by **Prof. Yanhui Liao** and **Prof. Jinsong Tang** at **Zhejiang University**. Previously, I was advised by **Prof. Tieqiao Liu** at **Central South University**, where I earned my **doctoral degree**.
+I am currently working as a **post-doc** in the **Department of Psychiatry** at **Sir Run Run Shaw Hospital**, **Zhejiang University School of Medicine**. I am very fortunate to be advised by **Prof. Yanhui Liao** and **Prof. Jinsong Tang** at **Zhejiang University**. Previously, I was advised by **Prof. Tieqiao Liu** at **Central South University**, where I earned my **Doctoral Degree**.
 
 
 ## Education
